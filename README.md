@@ -36,7 +36,7 @@ index.html
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone https://github.com/kullanici-adiniz/mini-dynamic-bootstrap.git
+   git clone https://github.com/rildir/customizable-bootstrap
    ```
 
 2. **SCSS dosyalarını derleyin:**
